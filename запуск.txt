@@ -1,1 +1,2 @@
-"C:\Users\elavu\Documents\NIR\Cluster 221\Cluster Analysis 2.2.1\venv\Scripts\python.exe" main.py
+run main.py
+предварительно создав в папке с проектом папку data, в которой содержатся обрабатываемые данные
