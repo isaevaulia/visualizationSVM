@@ -1,0 +1,1 @@
+"C:\Users\elavu\Documents\NIR\Cluster 221\Cluster Analysis 2.2.1\venv\Scripts\python.exe" main.py
